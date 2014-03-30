@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-     Copyright (C) 2013 The CyanogenMod Project
+     Copyright (C) 2013-2014 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -42,7 +42,7 @@
     <string name="blacklist_summary">Le chiamate in entrata provenienti da numeri di telefono presenti nella blacklist verranno bloccate</string>
     <string name="blacklist_call_notification">Bloccata una chiamata dal %s</string>
     <string name="blacklist_call_notification_private_number">Bloccata una chiamata da un numero privato</string>
-    <string name="blacklist_call_notification_unknown_number">Numero sconosciuto: %s</string>
+    <string name="blacklist_call_notification_unknown_number">Bloccata una chiamata da un numero sconosciuto %s</string>
     <string name="blacklist_call_notification_multiple"><xliff:g id="count">%d</xliff:g> chiamate sono state bloccate</string>
     <string name="blacklist_message_notification">Bloccato un messaggio da %s</string>
     <string name="blacklist_message_notification_private_number">Bloccato un messaggio da un numero privato</string>
@@ -58,4 +58,24 @@
     <string name="phone_number_summary">Imposta il numero di telefono di questo dispositivo</string>
     <string name="noise_suppression_title">Riduzione rumore</string>
     <string name="noise_suppression_summary">Attiva la riduzione rumore nelle chiamate</string>
+    <string name="preferred_network_mode_td_scdma_only">Solo TD-SCDMA</string>
+    <string name="preferred_network_mode_global">Globale</string>
+    <string name="preferred_network_mode_evdo_only">Solo EvDo</string>
+    <string name="preferred_network_mode_cdma_without_evdo">CDMA senza EvDo</string>
+    <string name="preferred_network_mode_cdma_evdo_auto">CDMA/EvDo auto</string>
+    <string name="preferred_network_mode_gsm_wcdma_auto">GSM/WCDMA auto</string>
+    <string name="preferred_network_mode_wcdma_only">Solo WCDMA</string>
+    <string name="preferred_network_mode_gsm_only">Solo GSM</string>
+    <string name="preferred_network_mode_gsm_wcdma_preferred">GSM/WCDMA preferito</string>
+    <string name="number_lookup">Ricerca del numero</string>
+    <string name="enable_forward_lookup_title">Ricerca diretta</string>
+    <string name="enable_forward_lookup_summary">Mostra luoghi nelle vicinanze durante la ricerca nel tastierino</string>
+    <string name="enable_people_lookup_title">Ricerca persone</string>
+    <string name="enable_people_lookup_summary">Mostra risultati online durante la ricerca nel tastierino</string>
+    <string name="enable_reverse_lookup_title">Ricerca inversa</string>
+    <string name="enable_reverse_lookup_summary">Cerca informazioni sulla persona o luogo per i numeri sconosciuti delle chiamate in ingresso</string>
+    <string name="choose_lookup_providers">Scegli i provider di ricerca</string>
+    <string name="choose_forward_lookup_provider_title">Provider di ricerca diretta</string>
+    <string name="choose_people_lookup_provider_title">Provider di ricerca persone</string>
+    <string name="choose_reverse_lookup_provider_title">Provider di ricerca inversa</string>
 </resources>
