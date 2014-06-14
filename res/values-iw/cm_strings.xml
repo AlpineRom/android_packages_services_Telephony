@@ -43,7 +43,7 @@
   <string name="blacklist_summary">הודעות נכנסות ממספרי טלפון שברשימה השחורה ייחסמו</string>
   <string name="blacklist_call_notification">חסום שיחה מ-%s</string>
   <string name="blacklist_call_notification_private_number">חסום שיחה ממספר חסוי</string>
-  <string name="blacklist_call_notification_unknown_number">חסo שיחה מתוך מספר לא ידוע %s</string>
+  <string name="blacklist_call_notification_unknown_number">חסום שיחה מתוך מספר לא ידוע %s</string>
   <string name="blacklist_call_notification_multiple"><xliff:g id="count">%d</xliff:g> שיחות נחסמו</string>
   <string name="blacklist_message_notification">חסם הודעה מ-%s</string>
   <string name="blacklist_message_notification_private_number">חסם הודעה ממספר חסוי</string>
@@ -82,4 +82,5 @@
   <string name="sub_no_sim">אין SIM</string>
   <string name="msim_call_selector_title">התקשר ל-<xliff:g id="number">%s</xliff:g> דרך</string>
   <string name="msim_call_selector_item">SIM<xliff:g id="index">%1$d</xliff:g>: <xliff:g id="operator">%2$s</xliff:g></string>
+  <string name="cyngn_reverse_lookup_provider_name">Cyngn סינית (CN)</string>
 </resources>
